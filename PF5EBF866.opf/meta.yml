@@ -11,3 +11,8 @@ source_metadata:
       parent: Advice
 created_at: '2022-03-01T00:23:39.357395'
 last_modified_at: '2022-03-01T00:23:39.357397'
+statistics:
+  total_words: 317
+  total_non_words: 41
+quality:
+  non_words_ratio: 0.13
